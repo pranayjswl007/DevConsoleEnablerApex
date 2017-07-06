@@ -20,7 +20,7 @@ How to use?
 2. Run below piece of code in Execute Anon via Workbench /Eclipse
 
 
-DevConsoleEnabler.enableDevConsole();
+    DevConsoleEnabler.enableDevConsole();
 
 
 
