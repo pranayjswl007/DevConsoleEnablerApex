@@ -3,7 +3,7 @@ The Apex Implementation that will fix dev console unresponsive behavior by delet
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/askforce?src=hash">#askforce</a> Dev Console in CS59 has gone to the beach or something -- server response &lt; bupkus, no indication on Trust. <a href="https://twitter.com/hashtag/brutal?src=hash">#brutal</a></p>&mdash; @fduncan (@fduncan) <a href="https://twitter.com/fduncan/status/882667746743521280">July 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
